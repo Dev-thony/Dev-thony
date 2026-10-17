@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hey, I'm David 👋
 
-<!--
-**Dev-thony/Dev-thony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer · Technology Enthusiast · Lifelong Learner**
 
-Here are some ideas to get you started:
+I enjoy exploring different areas of technology, solving problems through code, and building projects that turn ideas into working solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously expanding my skills, experimenting with new tools, and learning by building.
+
+- 💻 Exploring software development across multiple technologies
+- 🧠 Strengthening my problem-solving and programming skills
+- 🛠️ Building projects and learning through practical experience
+- 🌱 Always open to learning, collaboration, and new ideas
+
+---
+
+## 🧰 Technologies & Tools
+
+*My technology stack evolves as I learn and build.*
+
+<!-- Replace the examples below with technologies you actually use. -->
+
+**Languages**
+<!-- Add your language badges here -->
+
+**Frameworks & Libraries**
+<!-- Add the frameworks you have used here -->
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these examples with links to your real repositories. -->
+
+### [Project One](https://github.com/Dev-thony)
+
+A project that demonstrates my ability to turn an idea into a working solution.
+
+**Focus:** [Main technology or skill]
+
+### [Project Two](https://github.com/Dev-thony)
+
+A practical project focused on solving a problem or exploring a new concept.
+
+**Focus:** [Main technology or skill]
+
+### [Project Three](https://github.com/Dev-thony)
+
+An experiment or application that documents my progress as a developer.
+
+**Focus:** [Main technology or skill]
+
+---
+
+## 📊 My Development Journey
+
+I believe in learning by doing, writing understandable code, and improving with every project. My goal is to keep growing as a developer while creating useful, maintainable software.
+
+---
+
+## 🤝 Connect
+
+- **GitHub:** [@Dev-thony](https://github.com/Dev-thony)
+
+<!-- Add your professional links here if you want to share them publicly. -->
+
+---
+
+*Build consistently. Learn continuously. Improve with every commit.* 🚀
+
+Before publishing: the project cards are placeholders, not claims that those 
