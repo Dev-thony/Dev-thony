@@ -13,25 +13,44 @@ I'm continuously expanding my skills, experimenting with new tools, and learning
 
 ---
 
-## 🧰 Technologies & Tools
+# 🧰 Technologies & Tools
 
-*My technology stack evolves as I learn and build.*
-
-🛠️ Technologies & Tools
 Languages
-� � � �
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
 Frameworks & Libraries
-� � � � �
+
+- React
+- Next.js
+- Node.js
+- Tailwind CSS
+- Bootstrap
+
 Tools & Platforms
-� � � � � � � � � �
+
+- Git and GitHub
+- Linux / Terminal
+- Visual Studio Code
+- Postman
+- Figma
+- Firebase
+- Supabase
+- Vercel
+- npm / pnpm
+
 Areas of Interest
-🌐 Frontend development and modern web applications
-⛓️ Blockchain and Web3
-🤖 Artificial intelligence
-🔐 Cybersecurity
-📱 Mobile development
-🤝 Open-source development
-🔌 APIs and integrations
+
+- 🌐 Frontend development
+- ⛓️ Blockchain and Web3
+- 🤖 Artificial intelligence
+- 🔐 Cybersecurity
+- 📱 Mobile development
+- 🤝 Open-source development
+- 🔌 APIs and integrations
 
 ---
 
